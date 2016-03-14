@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LidgrenConsole", "LidgrenConsole\LidgrenConsole.csproj", "{81C3207E-EA42-4E00-B686-B582D377602D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LidgrenConsoleServer", "LidgrenConsoleServer\LidgrenConsoleServer.csproj", "{366A5162-F715-46A2-9D4D-310325B92387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C3207E-EA42-4E00-B686-B582D377602D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C3207E-EA42-4E00-B686-B582D377602D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C3207E-EA42-4E00-B686-B582D377602D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C3207E-EA42-4E00-B686-B582D377602D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{366A5162-F715-46A2-9D4D-310325B92387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366A5162-F715-46A2-9D4D-310325B92387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366A5162-F715-46A2-9D4D-310325B92387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366A5162-F715-46A2-9D4D-310325B92387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

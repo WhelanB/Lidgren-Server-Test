@@ -1,0 +1,6 @@
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsoleServer\bin\Debug\LidgrenConsoleServer.exe.config
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsoleServer\bin\Debug\LidgrenConsoleServer.exe
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsoleServer\bin\Debug\LidgrenConsoleServer.pdb
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsoleServer\bin\Debug\Lidgren.Network.dll
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsoleServer\obj\Debug\LidgrenConsoleServer.exe
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsoleServer\obj\Debug\LidgrenConsoleServer.pdb

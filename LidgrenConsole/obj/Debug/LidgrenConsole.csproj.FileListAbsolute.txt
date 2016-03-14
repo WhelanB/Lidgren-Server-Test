@@ -1,0 +1,7 @@
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsole\bin\Debug\LidgrenConsole.exe.config
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsole\bin\Debug\LidgrenConsole.exe
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsole\bin\Debug\LidgrenConsole.pdb
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsole\bin\Debug\Lidgren.Network.dll
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsole\obj\Debug\LidgrenConsole.exe
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsole\obj\Debug\LidgrenConsole.pdb
+c:\users\brian\documents\visual studio 2015\Projects\LidgrenConsole\LidgrenConsole\obj\Debug\LidgrenConsole.csprojResolveAssemblyReference.cache
